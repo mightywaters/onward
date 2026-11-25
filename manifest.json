@@ -1,0 +1,15 @@
+{
+  "name": "Onward — life after a new disability",
+  "short_name": "Onward",
+  "description": "Find care near you, resources that fit your disability, and a step-by-step plan.",
+  "start_url": "./#/home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f4ee",
+  "theme_color": "#0b4f5c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
